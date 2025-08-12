@@ -9,12 +9,3 @@
 • DAX para criação de métricas e medidas (Power BI)
 • Azure DevOps
 • MS Excel (Avançado)
-
-🚀 Destaques:
-
-• Selecionado para representar o Brasil em um workshop global na Ericsson Estônia, apresentando nossa estratégia local de dados para equipes internacionais.
-• Liderei uma equipe em um Hackathon interno, onde desenvolvemos uma ferramenta de amostragem de testes em tempo real usando Python + Streamlit — tudo em apenas 48 horas.
-
-🔍 Estou em busca de novos desafios como Analista de Dados, Engenheiro de Dados Júnior ou Cientista de Dados Júnior, onde eu possa aplicar minha experiência prática, fortes habilidades técnicas e visão de negócios para gerar valor real.
-
-Vamos nos conectar e explorar como posso contribuir com a sua equipe de dados!
