@@ -9,3 +9,6 @@
 • DAX para criação de métricas e medidas (Power BI)
 • Azure DevOps
 • MS Excel (Avançado)
+
+Skills:
+[![My Skills](https://skillicons.dev/icons?i=py,databricks)](https://skillicons.dev)
